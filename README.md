@@ -1,7 +1,7 @@
 
 1. Copio il file .env.example e lo rinomino in .env (senza cancellare il file .env.example)
 
-DAL TERMIANLE cp env.example env
+     DAL TERMIANLE cp .env.example .env
 
 2. Apro il terminale ed eseguo il comando composer install
 

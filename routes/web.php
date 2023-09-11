@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 // Controlers
-use App\Http\Controllers\Guest\MainController;
+use App\Http\Controllers\Guest\PageController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,4 +16,4 @@ use App\Http\Controllers\Guest\MainController;
 |
 */
 
-Route::get('/',[MainController::class, 'index']);
+Route::get('/',[PageController::class, 'index']);
