@@ -1,0 +1,11 @@
+@extends('layouts.main')
+
+@section('page-title', 'Homepage')
+
+@section('main-content')
+    <div class="container pt-5">
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe fuga quia cum natus illum ipsam numquam quis rerum, eum unde nemo voluptatum blanditiis! Dolores eos ratione nobis similique voluptatibus, atque assumenda praesentium fuga explicabo doloremque ipsam modi iusto laboriosam aliquid totam! Libero recusandae totam adipisci, ipsum harum nihil dolor accusantium perspiciatis unde aperiam asperiores exercitationem quisquam eos itaque pariatur quis minima, sed inventore voluptatibus maiores. Deserunt odio illo ullam ab. Vero quis iste maxime non? Atque eligendi eius non fugiat placeat. Ut similique temporibus nostrum id. Est excepturi ducimus tempore fugit quis culpa dolore odio ipsa explicabo consectetur earum eligendi perspiciatis at, dolores fuga veritatis totam laborum id possimus ratione rerum sapiente doloremque adipisci voluptates! Sint numquam labore est odio dolor blanditiis cupiditate, quos neque, suscipit distinctio id possimus veritatis temporibus incidunt eveniet. Accusamus, ratione qui! Facilis nesciunt accusantium repellat quidem nisi fugit nulla magnam? Autem, pariatur tempora hic, quo minima dolor porro mollitia modi architecto natus dicta ea perspiciatis aperiam inventore, neque rerum eveniet exercitationem dolorum ducimus labore dolore! Velit ipsa adipisci excepturi dolor dolorem? Rem hic similique in laudantium, deserunt incidunt pariatur distinctio at quaerat quidem possimus. Dolores ex ea, delectus sunt illo pariatur, voluptatem accusantium, nobis qui quisquam impedit enim tenetur? Maiores nesciunt quam, expedita qui corrupti nulla dolorum! Minus excepturi iure architecto beatae eligendi obcaecati ad dolorum id maiores eum temporibus nobis facilis nesciunt ullam maxime voluptatem labore quas asperiores unde ut consequatur, aut vel aliquam necessitatibus? Aliquid quas reiciendis tempore temporibus eveniet dolorum, ipsam ullam.
+        </p>
+    </div>
+@endsection
